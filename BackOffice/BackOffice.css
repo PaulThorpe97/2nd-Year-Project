@@ -1,0 +1,32 @@
+﻿body
+{
+    background-color: #ffffff
+}
+
+header
+{
+    background-color: #0300ff;
+    height: 10%;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+}
+
+footer
+{
+    background-color: #0300ff;
+    height: 10%;
+    position: fixed;
+    width: 100%;
+    top: 90%;
+    left: 0%;
+}
+
+article
+{
+    background-color: #ffffff;
+    position: fixed;
+    width: 90%;
+    top: 10%;
+}
